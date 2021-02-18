@@ -1,0 +1,31 @@
+192.168.123.101
+
+
+
+
+CREATE TABLE `dataconfirm` (
+  `seq` int(11) DEFAULT NULL,
+  `Data1` varchar(200) DEFAULT NULL,
+  `Data2` varchar(200) DEFAULT NULL,
+  `Data3` varchar(200) DEFAULT NULL,
+  `Data4` varchar(200) DEFAULT NULL,
+  `Data5` varchar(200) DEFAULT NULL,
+  `Data6` varchar(200) DEFAULT NULL,
+  `Data7` varchar(200) DEFAULT NULL,
+  `Data8` varchar(200) DEFAULT NULL,
+  `Data9` varchar(200) DEFAULT NULL,
+  `Data10` varchar(200) DEFAULT NULL,
+  `Data11` varchar(200) DEFAULT NULL,
+  `Data12` varchar(200) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=euckr;
+
+
+
+
+
+
+/* Data for the `dataconfirm` table  (Records 1 - 1) */
+
+INSERT INTO `dataconfirm` (`seq`, `Data1`, `Data2`, `Data3`, `Data4`, `Data5`, `Data6`, `Data7`, `Data8`, `Data9`, `Data10`, `Data11`, `Data12`) VALUES 
+  (1, 'À¯¹Ì¶õ', '0', '', '', '', '', NULL, NULL, NULL, NULL, NULL, NULL);
+
